@@ -14,7 +14,8 @@ body {
 .case {
     width: 400px;
     height: 600px;
-    border: 1px solid #000;
+    border: 2px outset #999;
+    box-shadow: 1px 1px 3px 0 #555;
     display: flex;
     align-items: center;
     flex-direction: column;
